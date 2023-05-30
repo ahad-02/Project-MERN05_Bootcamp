@@ -35,15 +35,13 @@ Mongo DB
 ## Getting Started
 Follow these steps To get started with the Exercise Tracking App; 
 
-**clientside repo:**
-*https://github.com/usmanyousuf98/bootcamp
-
-**Serverside repo:**
-*https://github.com/usmanyousuf98/bootcamp-express
+**repo:**
+*https://github.com/ahad-02/Project-MERN05
 
 - Clone the repository: git clone
 - Install the dependencies: npm install
-- Start the development server: npm run dev
+- Start the client server: npm run dev
+- Start the server       : npm run start
 
 
 ## UI Design
