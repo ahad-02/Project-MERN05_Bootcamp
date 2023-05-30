@@ -36,7 +36,7 @@ Mongo DB
 Follow these steps To get started with the Exercise Tracking App; 
 
 **repo:**
-https://github.com/ahad-02/Project-MERN05
+[https://github.com/ahad-02/Project-MERN05](https://github.com/ahad-02/Project-MERN05_Bootcamp)
 
 - Clone the repository: git clone
 - Install the dependencies: npm install
